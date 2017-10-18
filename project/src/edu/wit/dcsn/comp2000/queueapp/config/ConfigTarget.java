@@ -1,4 +1,4 @@
-package edu.wit.dcsn.comp2000.queueapp;
+package edu.wit.dcsn.comp2000.queueapp.config;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

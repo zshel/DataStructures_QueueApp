@@ -1,4 +1,4 @@
-package edu.wit.dcsn.comp2000.queueapp;
+package edu.wit.dcsn.comp2000.queueapp.config;
 
 import java.io.*;
 import java.lang.reflect.Field;
