@@ -7,5 +7,9 @@ public class Station {
 
     private QueueInterface<Passenger> passengerQueue = new ArrayQueue<>();
 
+    private int id;
 
+    public Station(final int id) {
+        this.id = id;
+    }
 }
