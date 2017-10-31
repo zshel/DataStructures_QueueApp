@@ -1,5 +1,6 @@
 package edu.wit.dcsn.comp2000.queueapp.config;
 
+/**@author Zachary Shelton*/
 public class ConfigImpl implements Config {
 
     @ConfigTarget(name = "ticks")
@@ -15,7 +16,7 @@ public class ConfigImpl implements Config {
     private String routeStyle;
 
     @ConfigTarget(name = "stationsAt")
-    private String[] stationsAt;
+    private int[] stationsAt;
 
     @ConfigTarget(name = "trainsAt")
     private String[] trainsAt;
@@ -48,7 +49,7 @@ public class ConfigImpl implements Config {
         return routeStyle;
     }
 
-    public String[] getStationsAt() {
+    public int[] getStationsAt() {
         return stationsAt;
     }
 

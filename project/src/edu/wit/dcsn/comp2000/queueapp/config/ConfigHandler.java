@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**@author Zachary Shelton, Taken from a previous project*/
 public class ConfigHandler {
 
     private static final List<Parser> parserList = new ArrayList<>();
@@ -97,6 +98,17 @@ public class ConfigHandler {
             @Override
             public Long parse(String input) {
                 return Long.parseLong(input);
+            }
+        });
+        parserList.add(new Parser<int[]>(int[].class) {
+            @Override
+            public int[] parse(String input) {
+                final String[] tempArray = input.split(",");
+                final int[] newArray = new int[tempArray.length];
+                for(int i = 0; i < tempArray.length; i++) {
+                    newArray[i] = Integer.parseInt(tempArray[i].trim());
+                }
+                return newArray;
             }
         });
     }

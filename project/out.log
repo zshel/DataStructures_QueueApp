@@ -1,0 +1,452 @@
+Ticks: 100
+Added station 1 to inbound with location 1
+Added station 2 to inbound with location 4
+Added station 3 to inbound with location 10
+Added station 4 to inbound with location 15
+Added station 5 to inbound with location 20
+Added station 5 to outbound with location 0
+Added station 4 to outbound with location 5
+Added station 3 to outbound with location 10
+Added station 2 to outbound with location 16
+Added station 1 to outbound with location 19
+[inbound] 1,20
+[inbound] 2,20
+[inbound] 6,20
+[inbound] 10,20
+[outbound] 4,20
+[outbound] 20,20
+Train 4 reached station 4 on route: outbound
+Train 5 reached end of outbound, switching to inbound
+Train 1 reached station 2 on route: inbound
+Train 5 reached station 1 on route: inbound
+Train 0 reached station 2 on route: inbound
+Train 2 reached station 3 on route: inbound
+Train 3 reached station 4 on route: inbound
+Max people reached in train!
+Train 5 reached station 2 on route: inbound
+3 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 4 reached station 3 on route: outbound
+2 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 1 reached station 3 on route: inbound
+2 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 0 reached station 3 on route: inbound
+2 passenger(s) with the destination 3 removed!
+Train 2 reached station 4 on route: inbound
+3 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 3 reached station 5 on route: inbound
+3 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 3 reached end of inbound, switching to outbound
+Train 3 reached station 5 on route: outbound
+Max people reached in train!
+Train 5 reached station 3 on route: inbound
+1 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 2 on route: outbound
+7 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 1 reached station 4 on route: inbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 0 reached station 4 on route: inbound
+7 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 2 reached station 5 on route: inbound
+3 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 2 reached end of inbound, switching to outbound
+Train 2 reached station 5 on route: outbound
+1 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 4 reached station 1 on route: outbound
+6 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 3 reached station 4 on route: outbound
+7 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 4 on route: inbound
+9 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 4 reached end of outbound, switching to inbound
+Train 1 reached station 5 on route: inbound
+6 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 4 reached station 1 on route: inbound
+Max people reached in train!
+Train 0 reached station 5 on route: inbound
+4 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 1 reached end of inbound, switching to outbound
+Train 1 reached station 5 on route: outbound
+2 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 0 reached end of inbound, switching to outbound
+Train 0 reached station 5 on route: outbound
+Max people reached in train!
+Train 2 reached station 4 on route: outbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 3 reached station 3 on route: outbound
+7 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 2 on route: inbound
+3 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 5 reached station 5 on route: inbound
+8 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 5 reached end of inbound, switching to outbound
+Train 5 reached station 5 on route: outbound
+4 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 1 reached station 4 on route: outbound
+3 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 0 reached station 4 on route: outbound
+2 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 2 reached station 3 on route: outbound
+3 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 2 on route: outbound
+6 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 4 reached station 3 on route: inbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 5 reached station 4 on route: outbound
+2 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 1 reached station 3 on route: outbound
+7 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 0 reached station 3 on route: outbound
+3 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 1 on route: outbound
+8 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 2 reached station 2 on route: outbound
+7 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 3 reached end of outbound, switching to inbound
+Train 4 reached station 4 on route: inbound
+8 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 3 on route: outbound
+3 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 1 on route: inbound
+2 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 2 reached station 1 on route: outbound
+10 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 1 reached station 2 on route: outbound
+8 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 0 reached station 2 on route: outbound
+8 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 2 reached end of outbound, switching to inbound
+Train 3 reached station 2 on route: inbound
+3 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 2 reached station 1 on route: inbound
+1 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 4 reached station 5 on route: inbound
+8 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 1 reached station 1 on route: outbound
+7 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 4 reached end of inbound, switching to outbound
+Train 4 reached station 5 on route: outbound
+2 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 5 reached station 2 on route: outbound
+9 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 0 reached station 1 on route: outbound
+9 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 1 reached end of outbound, switching to inbound
+Train 2 reached station 2 on route: inbound
+4 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 0 reached end of outbound, switching to inbound
+Train 1 reached station 1 on route: inbound
+2 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 5 reached station 1 on route: outbound
+12 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 0 reached station 1 on route: inbound
+Max people reached in train!
+Train 3 reached station 3 on route: inbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 4 on route: outbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached end of outbound, switching to inbound
+Train 1 reached station 2 on route: inbound
+4 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 5 reached station 1 on route: inbound
+3 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 0 reached station 2 on route: inbound
+2 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 2 reached station 3 on route: inbound
+7 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 4 on route: inbound
+3 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 2 on route: inbound
+5 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 4 reached station 3 on route: outbound
+7 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 1 reached station 3 on route: inbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 0 reached station 3 on route: inbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 2 reached station 4 on route: inbound
+8 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 3 reached station 5 on route: inbound
+12 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 3 reached end of inbound, switching to outbound
+Train 3 reached station 5 on route: outbound
+3 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 5 reached station 3 on route: inbound
+11 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 2 on route: outbound
+5 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 1 reached station 4 on route: inbound
+6 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 0 reached station 4 on route: inbound
+7 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 2 reached station 5 on route: inbound
+8 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 2 reached end of inbound, switching to outbound
+Train 2 reached station 5 on route: outbound
+1 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 4 reached station 1 on route: outbound
+9 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 3 reached station 4 on route: outbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 4 on route: inbound
+3 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 4 reached end of outbound, switching to inbound
+Train 1 reached station 5 on route: inbound
+7 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 4 reached station 1 on route: inbound
+2 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 0 reached station 5 on route: inbound
+13 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 1 reached end of inbound, switching to outbound
+Train 1 reached station 5 on route: outbound
+2 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 0 reached end of inbound, switching to outbound
+Train 0 reached station 5 on route: outbound
+3 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 2 reached station 4 on route: outbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 3 reached station 3 on route: outbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 2 on route: inbound
+3 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 5 reached station 5 on route: inbound
+8 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 5 reached end of inbound, switching to outbound
+Train 5 reached station 5 on route: outbound
+Max people reached in train!
+Train 1 reached station 4 on route: outbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 0 reached station 4 on route: outbound
+1 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 2 reached station 3 on route: outbound
+6 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 2 on route: outbound
+6 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 4 reached station 3 on route: inbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 5 reached station 4 on route: outbound
+2 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 1 reached station 3 on route: outbound
+9 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 0 reached station 3 on route: outbound
+9 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 1 on route: outbound
+9 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 2 reached station 2 on route: outbound
+7 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 3 reached end of outbound, switching to inbound
+Train 4 reached station 4 on route: inbound
+8 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 3 on route: outbound
+5 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 1 on route: inbound
+2 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 2 reached station 1 on route: outbound
+8 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 1 reached station 2 on route: outbound
+10 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 0 reached station 2 on route: outbound
+7 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 2 reached end of outbound, switching to inbound
+Train 3 reached station 2 on route: inbound
+3 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 2 reached station 1 on route: inbound
+2 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 4 reached station 5 on route: inbound
+10 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 1 reached station 1 on route: outbound
+5 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 4 reached end of inbound, switching to outbound
+Train 4 reached station 5 on route: outbound
+2 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 5 reached station 2 on route: outbound
+9 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 0 reached station 1 on route: outbound
+9 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 1 reached end of outbound, switching to inbound
+Train 2 reached station 2 on route: inbound
+6 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 0 reached end of outbound, switching to inbound
+Train 1 reached station 1 on route: inbound
+Max people reached in train!
+Train 5 reached station 1 on route: outbound
+11 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 0 reached station 1 on route: inbound
+2 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 3 reached station 3 on route: inbound
+7 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 4 on route: outbound
+5 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached end of outbound, switching to inbound
+Train 1 reached station 2 on route: inbound
+2 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 5 reached station 1 on route: inbound
+3 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 0 reached station 2 on route: inbound
+2 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 2 reached station 3 on route: inbound
+6 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 3 reached station 4 on route: inbound
+4 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 2 on route: inbound
+1 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 4 reached station 3 on route: outbound
+7 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 1 reached station 3 on route: inbound
+6 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 0 reached station 3 on route: inbound
+6 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 2 reached station 4 on route: inbound
+7 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 3 reached station 5 on route: inbound
+11 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 3 reached end of inbound, switching to outbound
+Train 3 reached station 5 on route: outbound
+1 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 5 reached station 3 on route: inbound
+4 passenger(s) with the destination 3 removed!
+Max people reached in train!
+Train 4 reached station 2 on route: outbound
+6 passenger(s) with the destination 2 removed!
+Max people reached in train!
+Train 1 reached station 4 on route: inbound
+7 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 0 reached station 4 on route: inbound
+10 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 2 reached station 5 on route: inbound
+8 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 2 reached end of inbound, switching to outbound
+Train 2 reached station 5 on route: outbound
+1 passenger(s) with the destination 5 removed!
+Max people reached in train!
+Train 4 reached station 1 on route: outbound
+10 passenger(s) with the destination 1 removed!
+Max people reached in train!
+Train 3 reached station 4 on route: outbound
+1 passenger(s) with the destination 4 removed!
+Max people reached in train!
+Train 5 reached station 4 on route: inbound
+12 passenger(s) with the destination 4 removed!
+Max people reached in train!

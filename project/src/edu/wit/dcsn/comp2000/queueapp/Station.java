@@ -1,30 +1,44 @@
 package edu.wit.dcsn.comp2000.queueapp;
 
-import java.util.ArrayList;
-import java.util.List;
 
-import com.pearson.carrano.ArrayQueue;
 import com.pearson.carrano.QueueInterface;
 
+/**@author Eddie Lorenzana*/
 public class Station {
-	
-	private QueueInterface<Passenger> IncomingQueue = new ArrayQueue<>();
-    
-    private QueueInterface<Passenger> OutgoingQueue = new ArrayQueue<>();
-    
-	
-    private int Stationid;
 
-    public Station(final int id) {
-        this.Stationid = id;
+
+    private QueueInterface<Passenger> passengerQueue = new ArrayQueue<>();
+	
+    private int id;
+
+    private int location;
+
+    public Station(int id, int location) {
+        this.id = id;
+        this.location = location;
     }
-    
-    public void enterStation(Passenger passenger){
-    	IncomingQueue.enqueue(passenger);
+
+    public QueueInterface<Passenger> getPassengerQueue() {
+        return passengerQueue;
     }
-    
-    public void leaveStation(Train passenger){
-    	OutgoingQueue.dequeue();
+
+    public void dequeueToTrain(Train train) {
+        while(!passengerQueue.isEmpty()) {
+            Passenger passenger = passengerQueue.dequeue();
+            passenger.setStatus(Status.ON_TRAIN);
+            if(!train.addPassenger(passenger)) {
+                System.out.println("Max people reached in train!");
+                break;
+            }
+        }
     }
-    
+
+
+    public int getId() {
+        return id;
+    }
+
+    public int getLocation() {
+        return location;
+    }
 }
